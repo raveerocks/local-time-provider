@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId="io.raveerocks" -DartifactId="local-time-provider" -Dversion="1.0-SNAPSHOT" -Dfile="/opt/ravee/webinar/local-time-provider/target/local-time-provider-1.0-SNAPSHOT.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
